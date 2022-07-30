@@ -6,3 +6,22 @@ h1 {
 .myBtnStyle {
     font-size: 33px;
 }
+
+nik_stail{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    padding: 15px 0;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #262626;
+    border-top: 2px solid #262626;
+    border-bottom: 2px solid #262626;
+    letter-spacing: 2px;
+    transition: .5s;
+
+  }
+  nik_stail:hover{
+    letter-spacing: 10px;
+  }
